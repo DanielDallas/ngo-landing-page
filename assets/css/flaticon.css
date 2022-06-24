@@ -3,19 +3,19 @@ Flaticon icon font: Flaticon
 */
 @font-face {
 	font-family: "Flaticon";
-	src: url("../assets/fonts/Flaticon.eot");
-	src: url("../assets/fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
-	url("../assets/fonts/Flaticon.woff2") format("woff2"),
-	url("../assets/fonts/Flaticon.woff") format("woff"),
-	url("../assets/fonts/Flaticon.ttf") format("truetype"),
-	url("../assets/fonts/Flaticon.svg#Flaticon") format("svg");
+	src: url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.eot");
+	src: url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+	url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.woff2") format("woff2"),
+	url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.woff") format("woff"),
+	url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.ttf") format("truetype"),
+	url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.svg#Flaticon") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: "Flaticon";
-		src: url("../assets/fonts/Flaticon.svg#Flaticon") format("svg");
+		src: url("https://templates.envytheme.com/huruma/default/assets/fonts/Flaticon.svg#Flaticon") format("svg");
 	}
 }
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
